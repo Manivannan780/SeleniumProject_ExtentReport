@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Shopping Project" duration-ms="51501" started-at="2020-07-22T16:52:37 IST" finished-at="2020-07-22T16:53:29 IST">
+    <groups>
+    </groups>
+    <test name="Shopping Main Page" duration-ms="13642" started-at="2020-07-22T16:52:37 IST" finished-at="2020-07-22T16:52:51 IST">
+      <class name="project_TestCases.Mainpage_Testcase1">
+        <test-method status="PASS" signature="Atestcase1()[pri:0, instance:project_TestCases.Mainpage_Testcase1@5d76b067]" name="Atestcase1" duration-ms="13583" started-at="2020-07-22T16:52:37 IST" finished-at="2020-07-22T16:52:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atestcase1 -->
+      </class> <!-- project_TestCases.Mainpage_Testcase1 -->
+    </test> <!-- Shopping Main Page -->
+    <test name="Mobile Page" duration-ms="26411" started-at="2020-07-22T16:52:51 IST" finished-at="2020-07-22T16:53:17 IST">
+      <class name="project_TestCases.MobilPage_Testcase2">
+        <test-method status="PASS" signature="BTestcase2()[pri:0, instance:project_TestCases.MobilPage_Testcase2@3712b94]" name="BTestcase2" duration-ms="26407" started-at="2020-07-22T16:52:51 IST" finished-at="2020-07-22T16:53:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTestcase2 -->
+      </class> <!-- project_TestCases.MobilPage_Testcase2 -->
+    </test> <!-- Mobile Page -->
+    <test name="Tv Page" duration-ms="11394" started-at="2020-07-22T16:53:17 IST" finished-at="2020-07-22T16:53:29 IST">
+      <class name="project_TestCases.TvPage_TestCase3">
+        <test-method status="PASS" signature="GeneralActions()[pri:0, instance:project_TestCases.TvPage_TestCase3@536aaa8d]" name="GeneralActions" is-config="true" duration-ms="14296" started-at="2020-07-22T16:52:23 IST" finished-at="2020-07-22T16:52:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralActions -->
+        <test-method status="PASS" signature="CTestCase3()[pri:0, instance:project_TestCases.TvPage_TestCase3@536aaa8d]" name="CTestCase3" duration-ms="11388" started-at="2020-07-22T16:53:17 IST" finished-at="2020-07-22T16:53:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CTestCase3 -->
+        <test-method status="PASS" signature="browserTermination()[pri:0, instance:project_TestCases.TvPage_TestCase3@536aaa8d]" name="browserTermination" is-config="true" duration-ms="1269" started-at="2020-07-22T16:53:29 IST" finished-at="2020-07-22T16:53:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTermination -->
+      </class> <!-- project_TestCases.TvPage_TestCase3 -->
+    </test> <!-- Tv Page -->
+  </suite> <!-- Shopping Project -->
+</testng-results>

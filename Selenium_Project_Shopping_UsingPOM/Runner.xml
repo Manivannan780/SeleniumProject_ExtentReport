@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Shopping Project">
+<test name="Shopping Main Page">
+<classes>
+<class name="project_TestCases.Mainpage_Testcase1">
+</class>
+</classes>
+</test>
+<test name="Mobile Page">
+<classes>
+<class name="project_TestCases.MobilPage_Testcase2">
+</class>
+</classes>
+</test>
+<test name="Tv Page">
+<classes>
+<class name="project_TestCases.TvPage_TestCase3">
+</class>
+</classes>
+</test>
+</suite>

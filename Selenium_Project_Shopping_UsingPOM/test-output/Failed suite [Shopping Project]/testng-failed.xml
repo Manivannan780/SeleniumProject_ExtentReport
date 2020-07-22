@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Shopping Project]]">
+  <test thread-count="5" name="Tv Page(failed)(failed)">
+    <classes>
+      <class name="project_TestCases.TvPage_TestCase3">
+        <methods>
+          <include name="GeneralActions"/>
+          <include name="browserTermination"/>
+          <include name="CTestCase3"/>
+        </methods>
+      </class> <!-- project_TestCases.TvPage_TestCase3 -->
+    </classes>
+  </test> <!-- Tv Page(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Shopping Project]] -->
